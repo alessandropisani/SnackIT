@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: actions.main
+Class-Path: C:\Users\api\Desktop\Projekt google snake\src\actions
+
